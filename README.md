@@ -41,7 +41,7 @@ responder al ticket o cerrarlo.
 
 ![](media/57e38639aaf9b8e505222a2060aa0b6d.png)
 
-Y si pulsamos sobre el ticket, podemos añadir una resolución o
+Y si pulsamos sobre el ticket, podemos añadir una resolución
 
 ![](media/5bab811866b25d68ab8ed20c0d6f4d26.png)
 
